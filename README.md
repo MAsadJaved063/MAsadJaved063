@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/MAsadJaved063/MAsadJaved063/raw/main/banner.gif" alt="banner">
+</p>
+
 <h1 align="center">Hi 👋, I'm M Asad Javed</h1>
 <h3 align="center">A passionate Software Developer from Pakistan.</h3>
 
